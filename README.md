@@ -1,3 +1,4 @@
+Loadstring : "loadstring(game:HttpGet('https://raw.githubusercontent.com/bestchance12312/Pets-go-Script/refs/heads/main/Main'))()"
 # Features:
 --Webhook Tab
 • New Titanic Pets Webhook
